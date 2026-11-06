@@ -1,0 +1,24 @@
+{
+  "name": "Eagle Eyes Restoration \u2014 Field Operations Demo",
+  "short_name": "Eagle Eyes Demo",
+  "description": "Local-only prototype; not for customer data",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3f8",
+  "theme_color": "#102d53",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
